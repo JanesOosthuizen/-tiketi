@@ -1,0 +1,84 @@
+.profile {
+    overflow:hidden;
+}
+
+.termstoggle
+{
+    text-align: center;
+    font-size:14px;
+}
+
+.termsandagreementsholder {
+    display:none;
+}
+
+.customerPrompt {
+    position: fixed;
+    top: 0px;
+    left: 0px;
+    background: #E8323C;
+    width: 100%;
+    text-align: center;
+    display: table;
+}
+
+.customerPrompt span h2 {
+    font-size:28px;
+    font-weight:bold;
+    color:#ffffff;
+    text-shadow:1px 1px 1px #7B2B2C;
+}
+
+.customerPrompt span {
+    display: table-cell;
+    vertical-align: middle;
+    font-size:24px;
+    color:#ffffff;
+    text-shadow:1px 1px 1px #7B2B2C;
+}
+
+.customerPrompt span button {
+    padding:10px 30px;
+    border:solid 1px #ffffff;
+    background:none;
+}
+
+.consultantPrompt {
+    position: fixed;
+    top: 0px;
+    left: 0px;
+    background: #E8323C;
+    width: 100%;
+    text-align: center;
+    display: table;
+}
+
+.consultantPrompt span h2 {
+    font-size:28px;
+    font-weight:bold;
+    color:#ffffff;
+    text-shadow:1px 1px 1px #7B2B2C;
+}
+
+.consultantPrompt span {
+    display: table-cell;
+    vertical-align: middle;
+    font-size:24px;
+    color:#ffffff;
+    text-shadow:1px 1px 1px #7B2B2C;
+}
+
+.consultantPrompt span button {
+    padding:10px 30px;
+    border:solid 1px #ffffff;
+    background:none;
+}
+
+#patternContainer {
+    margin:0px auto;
+}
+
+div#signature {
+    outline: dashed 2px #cccccc;
+    margin:20px 0px 30px 0px;
+}
